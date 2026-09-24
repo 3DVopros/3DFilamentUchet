@@ -20,6 +20,8 @@
 
 <img width="1920" height="1080" alt="Program_3DFilamentUchet_part1_shorts" src="https://github.com/user-attachments/assets/1f6ad9d6-4b8c-4898-b124-23a2251eb062" />
 
+Ссылка на видео: https://vkvideo.ru/video-226164803_456239099
+
 ## Принцип работы
 
 Программа не синхронизируется с принтерами или слайсерами и не управляет печатью.
