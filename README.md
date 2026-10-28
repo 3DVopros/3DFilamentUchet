@@ -105,7 +105,7 @@
 
 - Скачайте установщик со страницы
   **[Releases](https://github.com/3DVopros/3DFilamentUchet/releases/latest)**
-  (файл вида `3DFilamentUchet-<version>-setup.exe`) и запустите.
+  (файл вида `3DFilamentUchet-<версия>-setup.exe`) и запустите.
 - Windows 10/11. Python и зависимости ставить не нужно.
 - Установщик без цифровой подписи, поэтому Windows может предупредить
   про «неизвестного издателя» — нажмите «Подробнее» → «Выполнить
